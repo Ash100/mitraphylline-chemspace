@@ -1,0 +1,4 @@
+rule,n_pass,pct_pass
+Lipinski Ro5 (<=1 violation),483936,68.58474241180947
+Veber,455134,64.5028436670479
+Ghose (MW & LogP window),351284,49.784935721645176

@@ -1,0 +1,2 @@
+n_compounds_compared,mean_tanimoto,median_tanimoto,std_tanimoto,max_tanimoto_excl_self,n_exact_2d_stereoisomers,top_distinct_analogue_tanimoto,p99_tanimoto,p99.9_tanimoto
+705603,0.12015094951063883,0.12,0.037172759631688465,1.0,15,0.8225806451612904,0.21212121212121213,0.32142857142857145

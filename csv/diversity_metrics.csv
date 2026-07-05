@@ -1,0 +1,2 @@
+sample_size,n_pairs,mean_pairwise_tanimoto,median_pairwise_tanimoto,std_pairwise_tanimoto,mean_pairwise_diversity_1_minus_T
+3000,4498500,0.10461061872708254,0.09558823529411764,0.06863418430340867,0.8953893812729175
